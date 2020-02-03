@@ -28,3 +28,4 @@ coverage/
 
 # Test
 .chrome/
+dist/
